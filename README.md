@@ -10,3 +10,6 @@
 2. If you 'd like to use PlatformIO (with VS Code)
      If you run into any problems with coding in PlatformIO, try making sure there are no spaces in your folder path.
      All you should need to do to get the .ino functioning in Platform is change it to .cpp and include the <Arduino.h> library
+
+## Credit
+Credit for most of this work goes to Areeb Mohammed. :)
