@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/pico_relay/pico_relay.egg-info
+writing ../../build/pico_relay/pico_relay.egg-info/PKG-INFO
+writing dependency_links to ../../build/pico_relay/pico_relay.egg-info/dependency_links.txt
+writing entry points to ../../build/pico_relay/pico_relay.egg-info/entry_points.txt
+writing requirements to ../../build/pico_relay/pico_relay.egg-info/requires.txt
+writing top-level names to ../../build/pico_relay/pico_relay.egg-info/top_level.txt
+writing manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+reading manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+writing manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build
+creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib
+creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay
+copying pico_relay/__init__.py -> /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay
+running install
+running install_lib
+creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay
+copying /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay/__init__.py -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay
+byte-compiling /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index
+creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index
+creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index/packages
+copying resource/pico_relay -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index/packages
+copying package.xml -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/pico_relay
+running install_egg_info
+Copying ../../build/pico_relay/pico_relay.egg-info to /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/install.log'

@@ -1,0 +1,35 @@
+[0.482s] Invoking command in '/home/tristan/Documents/two_month_23/ros2_ws/src/pico_relay': PYTHONPATH=/home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/prefix_override:/home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pico_relay build --build-base /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build install --record /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/install.log --single-version-externally-managed
+[0.638s] running egg_info
+[0.639s] creating ../../build/pico_relay/pico_relay.egg-info
+[0.639s] writing ../../build/pico_relay/pico_relay.egg-info/PKG-INFO
+[0.639s] writing dependency_links to ../../build/pico_relay/pico_relay.egg-info/dependency_links.txt
+[0.639s] writing entry points to ../../build/pico_relay/pico_relay.egg-info/entry_points.txt
+[0.639s] writing requirements to ../../build/pico_relay/pico_relay.egg-info/requires.txt
+[0.639s] writing top-level names to ../../build/pico_relay/pico_relay.egg-info/top_level.txt
+[0.639s] writing manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+[0.640s] reading manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+[0.641s] writing manifest file '../../build/pico_relay/pico_relay.egg-info/SOURCES.txt'
+[0.641s] running build
+[0.641s] running build_py
+[0.641s] creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build
+[0.641s] creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib
+[0.641s] creating /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay
+[0.641s] copying pico_relay/__init__.py -> /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay
+[0.641s] running install
+[0.650s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.650s]   warnings.warn(
+[0.650s] running install_lib
+[0.651s] creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay
+[0.651s] copying /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build/lib/pico_relay/__init__.py -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay
+[0.651s] byte-compiling /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay/__init__.py to __init__.cpython-310.pyc
+[0.651s] running install_data
+[0.652s] creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index
+[0.652s] creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index
+[0.652s] creating /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index/packages
+[0.652s] copying resource/pico_relay -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/ament_index/resource_index/packages
+[0.652s] copying package.xml -> /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/share/pico_relay
+[0.652s] running install_egg_info
+[0.653s] Copying ../../build/pico_relay/pico_relay.egg-info to /home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages/pico_relay-0.0.0-py3.10.egg-info
+[0.653s] running install_scripts
+[0.666s] writing list of installed files to '/home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/install.log'
+[0.684s] Invoked command in '/home/tristan/Documents/two_month_23/ros2_ws/src/pico_relay' returned '0': PYTHONPATH=/home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/prefix_override:/home/tristan/Documents/two_month_23/ros2_ws/install/pico_relay/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pico_relay build --build-base /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/build install --record /home/tristan/Documents/two_month_23/ros2_ws/build/pico_relay/install.log --single-version-externally-managed
