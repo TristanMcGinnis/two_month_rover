@@ -9,6 +9,7 @@ setup.py
 ../../build/pico_relay/pico_relay.egg-info/top_level.txt
 ../../build/pico_relay/pico_relay.egg-info/zip-safe
 pico_relay/__init__.py
+pico_relay/relay_node.py
 resource/pico_relay
 test/test_copyright.py
 test/test_flake8.py

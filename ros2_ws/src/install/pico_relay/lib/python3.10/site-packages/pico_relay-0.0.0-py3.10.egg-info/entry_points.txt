@@ -1,3 +1,0 @@
-[console_scripts]
-relay = pico_relay.relay_node:main
-
